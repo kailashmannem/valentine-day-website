@@ -18,6 +18,9 @@ export const metadata: Metadata = {
   title: "With You & Forever 💕",
   description:
     "A Valentine's Day celebration of love — upload your memories and create a beautiful card together.",
+  icons: {
+    icon: "/love.svg",
+  },
   keywords: ["valentine", "love", "memories", "card"],
 };
 
